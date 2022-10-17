@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @bcdpires
-- 👀 I’m interested in helping out others, playing soccer, watching anime and occasional video games.
-- 🌱 I’m currently beginning a full-stack development school.
-- 💞️ I’m looking to collaborate on projects that'll improve my knowledge and understanding, and also help the world grow with what I'm going to learn.
+- 👋 Hi, I’m Bruno.
+- 👀 I’m interested in volunteer work, soccer, anime and occasional video games.
+- 🌱 I’m currently beginning a full-stack development program.
+- 💞️ I’m looking to collaborate on projects that'll improve my knowledge and understanding, and also help make the world a better place with my contributions.
 - 📫 Get in touch: bcdpires@live.com.
 
 <!---
